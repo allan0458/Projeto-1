@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataTransformationsUserConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <ServerName>localhost</ServerName>
+        <PathOnServer>/SSISDB/Projeto_01/Projeto_01</PathOnServer>
+        <Run64BitRuntime>true</Run64BitRuntime>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>{CC7C3C4C-1BAC-462B-80A1-296848795E4F}</Id>
+            <Name>{CC7C3C4C-1BAC-462B-80A1-296848795E4F}</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA8wRo/PPnxEC/LjpkDLBFNgAAAABOAAAAewBDAEMANwBDADMAQwA0AEMALQAxAEIAQQBDAC0ANAA2ADIAQgAtADgAMABBADEALQAyADkANgA4ADQAOAA3ADkANQBFADQARgB9AAAAEGYAAAABAAAgAAAATS2AmI3vgjRmGMZTvuub+WDJKHC5A+ZjB0f8MXveAaUAAAAADoAAAAACAAAgAAAA5RzA1Iyuc25ltHhjPMnUj567h/GVlliH0d40QHAJavQQAAAAfAif8DrxmzBWvh1gpOSLFkAAAADWCD0py7puMMbfRLN1AuSVdyfQUbkOO+DHQM9sMvh+xR2X4qebDYhCoKDWLUXgu8No4M/wVkaoQYTYG60QrWQr</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>{CC7C3C4C-1BAC-462B-80A1-296848795E4F}</Id>
+            <Name>{CC7C3C4C-1BAC-462B-80A1-296848795E4F}</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA8wRo/PPnxEC/LjpkDLBFNgAAAABOAAAAewBDAEMANwBDADMAQwA0AEMALQAxAEIAQQBDAC0ANAA2ADIAQgAtADgAMABBADEALQAyADkANgA4ADQAOAA3ADkANQBFADQARgB9AAAAEGYAAAABAAAgAAAA9IXZLRT6i3OVdgo66mBRK4v2AGyNLOt+ZzM/wI556toAAAAADoAAAAACAAAgAAAAUAybvHCLW3faBitbbilgTaSwOLDrJB/bSSEJNygent8gAAAAMVbZ8fbyfjEerpFm2xrmyuh22nAeeduAaU2unvbyaKhAAAAAYkbL/jiWzMDxbl6oQFaeUiwd0B2aMln2Kw5B9W4k7DUam4uLz1dSKn+CIdxBl3bbmxKJFUDMLtpw541HNY/xcA==</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <OfflineMode>false</OfflineMode>
+        <ProgressReporting>true</ProgressReporting>
+        <ParameterConfigurationSensitiveValues>
+          <ConfigurationSetting>
+            <Id>LastModifiedTime</Id>
+            <Name>LastModifiedTime</Name>
+            <Value xsi:type="xsd:dateTime">2018-08-24T02:26:12.6701499Z</Value>
+          </ConfigurationSetting>
+        </ParameterConfigurationSensitiveValues>
+      </Options>
+    </Configuration>
+  </Configurations>
+</DataTransformationsUserConfiguration>

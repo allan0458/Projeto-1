@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Event_Log"
+  DTS:DTSID="{A54C9DD5-4E3F-4BBC-B343-292FA103AD7F}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=.;Initial Catalog=EVENT_LOG;Provider=SQLNCLI10.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-13 Event Log-{A54C9DD5-4E3F-4BBC-B343-292FA103AD7F}LocalHost.EVENT_LOG;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
